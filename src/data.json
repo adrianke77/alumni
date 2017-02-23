@@ -201,7 +201,7 @@
     },
     "project3": {
       "repoName": "WDI-Project3-WhereWork",
-      "deployedUrl": "http://wherework.herokuapp.com/",
+      "deployedUrl": "https://wherework.herokuapp.com/",
       "previewImage": "https://i.imgur.com/9MY4VFy.png",
       "collaborators": ["adrianke77", "wekkit","melvinthemok"]
     }
