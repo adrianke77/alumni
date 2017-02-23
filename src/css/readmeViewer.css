@@ -1,0 +1,7 @@
+.readme-viewer {
+  overflow: scroll;
+  height: 90vh;
+  overflow-x: hidden;
+  margin: 10px;
+}
+

@@ -1,0 +1,5 @@
+.project-card-list {
+  overflow: scroll;
+  height: 90vh;
+  overflow-x: hidden;
+}
